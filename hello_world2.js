@@ -1,3 +1,4 @@
+"use strict";
 function helloMessage(name) {
     return 'hello, World! My name is ' + name;
 }
